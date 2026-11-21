@@ -1,185 +1,199 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- NAVODYA VISHMITHA | SCIENTIFIC RESEARCH PORTFOLIO -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!--
+  NAVODYA VISHMITHA
+  SCIENTIFIC RESEARCH PORTFOLIO
+  GitHub Profile README
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=220&section=header&text=NAVODYA%20VISHMITHA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SCIENTIST%20%7C%20RESEARCHER%20%7C%20TECHNOLOGY%20INNOVATOR&descAlignY=58&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0c1e38,100:075985&height=250&section=header&text=NAVODYA%20VISHMITHA&fontSize=46&fontColor=E0F2FE&fontAlignY=40&desc=INDEPENDENT%20RESEARCH%20%7C%20SCIENCE%20%7C%20ENGINEERING&descSize=13&descAlignY=61&descColor=7DD3FC" width="100%"/>
 
-### Exploring the Unknown. Engineering the Future.
+<br/>
 
-**Aspiring Scientist & Independent Researcher**
+### ASPIRING SCIENTIST & TECHNOLOGY INNOVATOR
 
-Sri Lanka 🇱🇰
+*Exploring the unknown. Understanding the universe. Shaping the future.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github)](https://github.com/Navodyavishmitha-dev)
-[![Research](https://img.shields.io/badge/Focus-Scientific%20Research-0369a1?style=for-the-badge&logo=atom)](https://github.com/Navodyavishmitha-dev)
+<br/>
+
+<img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-0F172A?style=flat-square&labelColor=0F172A&color=075985"/>
+<img src="https://img.shields.io/badge/FOCUS-Scientific%20Research-0F172A?style=flat-square&labelColor=0F172A&color=075985"/>
+<img src="https://img.shields.io/badge/MINDSET-Curiosity%20%26%20Discovery-0F172A?style=flat-square&labelColor=0F172A&color=075985"/>
 
 </div>
 
----
-
-## ◈ 01 — SCIENTIFIC IDENTITY
-
-I am an aspiring scientist, independent researcher, and technology enthusiast driven by curiosity about the fundamental principles of nature and the possibilities of advanced technology.
-
-My ambition is to explore challenging scientific questions, understand complex systems, conduct experiments, and develop original technological solutions.
-
-I am building my knowledge from the foundations of mathematics, physics, computer science, and engineering.
-
-**My ultimate vision is to contribute to humanity through scientific discovery, original research, and technological innovation.**
+<br/>
 
 ---
 
-## ◈ 02 — RESEARCH DOMAINS
+## 01 / THE RESEARCHER
 
-<table>
+I am an aspiring scientist and independent researcher driven by a deep curiosity about the fundamental principles of nature, the complexity of intelligent systems, and the possibilities of future technology.
+
+My journey is built around learning from first principles, exploring scientific questions, understanding complex problems, and transforming ideas into practical experiments and engineering projects.
+
+I am particularly interested in the intersection of science, mathematics, computing, and advanced engineering.
+
+**My ambition is to contribute to humanity through original research, scientific discovery, and meaningful technological innovation.**
+
+<br/>
+
+## 02 / RESEARCH FRONTIERS
+
+<div align="center">
+
+| RESEARCH FIELD | AREAS OF INTEREST |
+|:---|:---|
+| ⚛️ **Physics** | Theoretical Physics · Applied Physics · Natural Phenomena |
+| ∑ **Mathematics** | Mathematical Foundations · Computational Mathematics |
+| 🧠 **Artificial Intelligence** | Machine Learning · Deep Learning · Neural Networks |
+| 🤖 **Robotics** | Intelligent Systems · Automation · Embedded Engineering |
+| 🧬 **Neuroscience** | Brain-Computer Interfaces · Human-Machine Interaction |
+| 🚀 **Space Technology** | Space Exploration · Advanced Engineering |
+
+</div>
+
+<br/>
+
+## 03 / RESEARCH & DEVELOPMENT
+
+*Turning curiosity into practical knowledge and engineering.*
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⚛️ Physics & Mathematics
+### FLOODLENS
 
-- Theoretical Physics
-- Applied Physics
-- Mathematical Foundations
-- Computational Mathematics
-- Understanding Natural Phenomena
+Technology project focused on developing intelligent solutions.
+
+**Domain:** Technology & Software
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Artificial Intelligence
+### LOST VALLEY
 
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Intelligent Systems
+A 3D game development project exploring interactive environments and engineering.
+
+**Domain:** Game Development
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Robotics & Engineering
+### BCI LEARNING
 
-- Robotics
-- Embedded Systems
-- Automation
-- Electronics
-- Human-Machine Interaction
+Exploring Brain-Computer Interface concepts and the relationship between neuroscience and computing.
+
+**Domain:** Neuroscience
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Space & Neuroscience
+### AI RESEARCH JOURNEY
 
-- Space Technology
-- Space Exploration
-- Brain-Computer Interfaces
-- Neuroscience
-- Advanced Engineering
+Building foundational knowledge in Artificial Intelligence, Machine Learning, and Computer Vision.
+
+**Domain:** AI Research
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ◈ 03 — RESEARCH & DEVELOPMENT
-
-My work combines scientific learning, programming, experimentation, and practical engineering.
-
-| Project | Research / Development Area | Status |
-|:---|:---|:---|
-| FLOODLENS | Technology & intelligent systems | Developing |
-| LOST VALLEY | 3D environments & game engineering | Developing |
-| BCI Learning | Brain-Computer Interface studies | Learning |
-| AI Research Journey | Artificial Intelligence | Exploring |
-
-*Project descriptions and progress will be expanded as the work develops.*
-
----
-
-## ◈ 04 — TECHNOLOGY & TOOLS
+## 04 / TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
-### Programming
-<img src="https://skillicons.dev/icons?i=python" />
+**PROGRAMMING**
 
-### Development & Research Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,godot" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-### Exploring
-<img src="https://img.shields.io/badge/Machine%20Learning-Research-0f172a?style=flat-square&logo=scikitlearn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Exploring-0f172a?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-0f172a?style=flat-square&logo=pytorch&logoColor=red"/>
+**DEVELOPMENT ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,godot&theme=dark" />
+
+**CURRENTLY EXPLORING**
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1B30?style=for-the-badge&logo=probot&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0B1B30?style=for-the-badge&logo=opencv&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0B1B30?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Robotics-0B1B30?style=for-the-badge&logo=robotframework&logoColor=38BDF8"/>
 
 </div>
 
----
+<br/>
 
-## ◈ 05 — CURRENT RESEARCH JOURNEY
+## 05 / CURRENT RESEARCH ROADMAP
 
-My current learning priorities:
+My current priorities are focused on building a strong scientific and engineering foundation.
 
-- [ ] Strengthen mathematical foundations.
-- [ ] Study classical and modern physics.
-- [ ] Develop Python programming skills.
-- [ ] Understand Machine Learning fundamentals.
-- [ ] Explore neural networks and computer vision.
-- [ ] Study neuroscience and BCI systems.
-- [ ] Conduct documented scientific experiments.
-- [ ] Develop original engineering projects.
+- [ ] Mathematics — Strengthening fundamental concepts.
+- [ ] Physics — Understanding classical and modern physics.
+- [ ] Programming — Developing computational thinking with Python.
+- [ ] Artificial Intelligence — Learning Machine Learning fundamentals.
+- [ ] Computer Vision — Exploring visual intelligence.
+- [ ] Neuroscience — Understanding brain-computer interaction.
+- [ ] Engineering — Developing practical experiments and prototypes.
+- [ ] Research Methods — Learning scientific investigation and documentation.
 
----
+<br/>
 
-## ◈ 06 — GITHUB ANALYTICS
+## 06 / GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Navodyavishmitha-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Navodyavishmitha-dev&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyavishmitha-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyavishmitha-dev&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyavishmitha-dev&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="70%"/>
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Navodyavishmitha-dev&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
----
+<br/>
 
-## ◈ 07 — RESEARCH PHILOSOPHY
+## 07 / RESEARCH PRINCIPLES
 
 <div align="center">
 
-### QUESTION EVERYTHING. VERIFY THROUGH EVIDENCE.
+### CURIOSITY IS THE BEGINNING OF DISCOVERY.
 
 </div>
 
-- Curiosity is the beginning of discovery.
-- Understand fundamental principles before building complex systems.
-- Never accept assumptions without investigation.
-- Test ideas through experiments and evidence.
-- Document failures as well as successes.
-- Pursue knowledge with patience, honesty, and discipline.
+| PRINCIPLE | COMMITMENT |
+|:---|:---|
+| Curiosity | Question what is known and explore what is unknown. |
+| Evidence | Base conclusions on observations and experiments. |
+| Integrity | Report findings honestly, including failures. |
+| Discipline | Build knowledge consistently from first principles. |
+| Innovation | Transform scientific understanding into useful technology. |
 
----
+<br/>
 
-## ◈ 08 — LONG-TERM VISION
+## 08 / THE LONG-TERM VISION
 
-To become a scientist, inventor, and technology innovator who contributes to humanity through original research and advanced engineering.
+To become a scientist, inventor, and technology innovator capable of contributing to humanity through original scientific research and advanced engineering.
 
-My long-term interests include artificial intelligence, robotics, advanced physics, neuroscience, and space technology.
+I aspire to explore challenging problems across artificial intelligence, physics, robotics, neuroscience, and space technology.
 
-I believe that the future belongs to those who dare to question what is possible.
+I believe that meaningful progress comes from understanding the world deeply, questioning limitations, and continuously pursuing knowledge.
+
+<br/>
 
 <div align="center">
 
-### LEARN · QUESTION · RESEARCH · EXPERIMENT · DISCOVER
+### THINK DEEPLY. QUESTION EVERYTHING. DISCOVER MORE.
 
-**Building knowledge today. Exploring possibilities for tomorrow.**
+**LEARN &nbsp; · &nbsp; RESEARCH &nbsp; · &nbsp; EXPERIMENT &nbsp; · &nbsp; INNOVATE**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=110&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:0c1e38,100:020617&height=130&section=footer" width="100%"/>
 
 </div>
